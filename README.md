@@ -21,4 +21,8 @@ Test
 
 Paragraph about images and HTML.
 
-`<img src="logo.png" width="400">`
+```
+<a href="">
+<img src="logo.png" width="400">
+</a>
+```
