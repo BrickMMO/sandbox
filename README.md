@@ -12,5 +12,7 @@ Test
 
     ![Humber Logo](logo.png)
 
+    <img src="logo.png" width="400">
+
 4. List Item
 5. List Item
