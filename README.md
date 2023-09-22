@@ -26,3 +26,6 @@ Paragraph about images and HTML.
 <img src="logo.png" width="400">
 </a>
 ```
+
+![BrickMMO Project](https://console.codeadam.ca/storage/articles/ZrAbHY5WbeyLq2BFgXV2v3fI1wxP4TZUqa5jzDGG.jpg)
+
