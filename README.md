@@ -29,3 +29,5 @@ Paragraph about images and HTML.
 
 ![BrickMMO Project](https://console.codeadam.ca/storage/articles/ZrAbHY5WbeyLq2BFgXV2v3fI1wxP4TZUqa5jzDGG.jpg)
 
+![Banner Image](banner.png)
+
