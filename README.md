@@ -10,7 +10,7 @@ Test
   
     Some paragraph content...
 
-![Humber Logo](logo.png)
+    ![Humber Logo](logo.png)
 
 4. List Item
 5. List Item
